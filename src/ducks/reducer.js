@@ -2,16 +2,24 @@ const initialState = {
   monthly: [
     {
       month: "February",
-      count: 33
+      count: 90
     },
     {
       month: "March",
-      count: 68
+      count: 69
     },
     {
       month: "April",
-      count: 15
-    }
+      count: 77
+    },
+    {
+      month: "May",
+      count: 69
+    },
+    {
+      month: "June",
+      count: 70
+    },
   ]
 };
 
